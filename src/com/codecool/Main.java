@@ -14,4 +14,8 @@ public class Main {
         Set<String> wordSet = new HashSet<>(words);
         return wordSet.size();
     }
+  
+    public List<String> getWords(String fileName) {
+        return null;
+    }
 }
